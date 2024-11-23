@@ -47,7 +47,7 @@ export const SearchBar = ({
         <TouchableOpacity onPress={() => onChangeText("")}>
           <MaterialIcons
             name="clear"
-            size={24}
+            size={20}
             color={isDark ? "rgba(255, 255, 255, 0.7)" : "rgba(0, 0, 0, 0.7)"}
           />
         </TouchableOpacity>
