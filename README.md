@@ -1,6 +1,7 @@
 ## Getting Started
-To run the project locally, follow these steps:
+You can access build files under `builds/` folder
 
+To run the project locally, follow these steps:
 ### 1. Set Up Environment Variables
 - Rename `.env.example` to `.env`.
 
